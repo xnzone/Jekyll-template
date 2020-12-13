@@ -10,7 +10,7 @@ git clone git@github.com:znfang/Jekyll-template.git
 # Debug Local
 ## dependencies
 - nodejs >= 8.9.0
-- ruby > 2.6.0
+- ruby > 2.3.0
 - webpack 
 - jekyll = v3.8.6
 ## dependencies installed
