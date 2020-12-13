@@ -1,0 +1,35 @@
+<!-- Footer -->
+<footer>
+    <div class="container" style="font-size: smaller;">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <p class="copyright text-muted">
+                    Copyright {{ site.time | date: '%Y' }} <i class="fa fa-heart" aria-hidden="true" style="color: #0085A1"></i> znfang. Powered by Jekyll&GitHub.</span> 
+您是本站第<span id="busuanzi_value_site_uv"></span>位小伙伴</p> 
+                    <p class="copyright text-muted" id="count">
+                </p>
+
+
+            </div>
+        </div>
+    </div>
+</footer>
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+<script>
+  //日期计算有点问题，实际是从5月1日开始的，但是计时不对，提前一个月，计时器就是对的
+  window.setInterval('counter()',1000);
+  function counter(){
+    var date=new Date();
+    var startDate=new Date(2019,4,1,0,0,0);
+    var time=(date-startDate)/1000;
+    var day=Math.floor(time/(24*60*60));
+    var hour=Math.floor(time%(24*60*60)/(60*60));
+    var minute=Math.floor(time%(24*60*60)%(60*60)/60);
+    var second=Math.floor(time%(24*60*60)%(60*60)%60);
+    var str="我的博客已默默运行了" + day + "天" + hour +"时" + minute + "分" + second + "秒";
+    document.getElementById('count').innerHTML=str;
+  }
+</script>
+
+
