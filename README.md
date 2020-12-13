@@ -1,10 +1,10 @@
-xnzone, znfang theme of jekyll, which is modified according to [fooleap's blog](https://blog.fooleap.org). I hava deleted some personal pages.
+xnzone, a theme of jekyll, which is modified according to [fooleap's blog](https://blog.fooleap.org). I hava deleted some personal pages.
 
 It also contains disqus and valine comment system.
 
 # How to Use
 ```bash
-git clone git@github.com:znfang/Jekyll-template.git
+git clone git@github.com:xnzone/Jekyll-template.git
 ```
 
 # Debug Local

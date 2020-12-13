@@ -6,9 +6,8 @@ title: 链接
 
 ## 个人链接
 
-* [Github](https://github.com/znfang/)
-* [码云](https://gitee.com/znfang/)
-* [LeetCode题解](http://leetcode-gitbook.znfang.ml)
+* [Github](https://github.com/xnzone/)
+* [LeetCode题解](http://leetcode.xnzone.ml)
 
 ## 工具链接
 

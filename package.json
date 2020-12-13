@@ -33,17 +33,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/znfang/Jekyll-template.git"
+    "url": "git+https://github.com/xnzone/Jekyll-template.git"
   },
   "author": "xnzone",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/znfang/Jekyll-template/issues"
+    "url": "https://github.com/xnzone/Jekyll-template/issues"
   },
   "browserslist": [
     "> 1%",
     "last 2 versions"
   ],
-  "homepage": "https://github.com/znfang/Jekyll-template#readme",
+  "homepage": "https://github.com/xnzone/Jekyll-template#readme",
   "description": ""
 }

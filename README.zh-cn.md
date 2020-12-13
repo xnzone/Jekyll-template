@@ -6,7 +6,7 @@ xnzone, jekyll主题，参考[fooleap博客](https://blog.fooleap.org)修改的�
 
 # 使用
 ```bash
-git clone git@github.com:znfang/Jekyll-template.git
+git clone git@github.com:xnzone/Jekyll-template.git
 ```
 
 # 本地调试使用

@@ -2,7 +2,7 @@
 layout: page
 permalink: /about.html
 title: 关于
-tags: [关于, 博客, znfang, blog]
+tags: [关于, 博客, xnzone, blog]
 ---
 
 <div class="zh post-container">

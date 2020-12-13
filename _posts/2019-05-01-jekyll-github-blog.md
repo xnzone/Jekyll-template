@@ -24,7 +24,7 @@ tags:  "blog"
 ## 注册github账号
 这一步应该不用多说吧。相信来看这个博客的人，应该都有了自己的同性交友网站的账号了。
 ## fork模板
-这一步你可以fork[我的模板](https://github.com/znfang/Jekyll-template)，当然你也可以fork上述我参考的jekyll官方模板,或者其他任何人的模板
+这一步你可以fork[我的模板](https://github.com/xnzone/Jekyll-template)，当然你也可以fork上述我参考的jekyll官方模板,或者其他任何人的模板
 
 可以参照下列步骤进行
 
@@ -36,11 +36,11 @@ fork之后，你会在自己的github账号下看到有这个repo，然后最后
 
 ![settings](/img/in-post/jekyll&github/settings.png){:width="100%"}
 
-进入setting界面后，修改repo的名字，将其修改为 你的githu账号名.github.io的形式。如我的修改为znfang.github.io
+进入setting界面后，修改repo的名字，将其修改为 你的githu账号名.github.io的形式。如我的修改为xnzone.github.io
 
 ![rename](/img/in-post/jekyll&github/rename.png){:width="100%"}
 
-如果一切顺利的话，在浏览器中输入你刚刚输入的repo的名字，就可以看到我内容状态了，如我输入znfang.github.io。
+如果一切顺利的话，在浏览器中输入你刚刚输入的repo的名字，就可以看到我内容状态了，如我输入xnzone.github.io。
 
 ![normal](/img/in-post/jekyll&github/normal.png){:width="100%"}
 
@@ -77,7 +77,7 @@ gem install jekyll
 具体的安装教程可以参考[云网牛站](https://ywnz.com/linuxyffq/4335.html)的操作
 
 安装好jekyll之后，可以进入到刚刚git clone下来的repo，比如作者的目录是
->/home/znfang/Documents/blog/znfang.github.io
+>/home/xnzone/Documents/blog/xnzone.github.io
 进入目录后，在此目录下打开终端，在终端中输入
 >jekyll s    或者jekyll server
 如果是低版本或者本地存在多个版本，则可以用
@@ -162,7 +162,7 @@ about.md是个人介绍，这个地方根据自己的兴趣修改。
 
 ![disqus-install](/img/in-post/jekyll&github/disqus-install.png){:width="100%"}
 
-进入后填入相关信息，注意在short web中填入你github的username，比如我的是znfang，进入下一步后，选择jekyll，并且在setting界面，讲用户名设为你的github的username，然后打开_config.yml,将disqus_username修改为你自己的名字即可。
+进入后填入相关信息，注意在short web中填入你github的username，比如我的是xnzone，进入下一步后，选择jekyll，并且在setting界面，讲用户名设为你的github的username，然后打开_config.yml,将disqus_username修改为你自己的名字即可。
 
 <font color="red">注意:使用disqus插件时，需要vpn，不然可能显示不成功</font>
 
