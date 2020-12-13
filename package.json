@@ -1,5 +1,5 @@
 {
-  "name": "znfang",
+  "name": "xnzone",
   "version": "1.0.0",
   "main": "/src/main.js",
   "dependencies": {
@@ -33,17 +33,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/i-znan/i-znan.github.io.git"
+    "url": "git+https://github.com/znfang/Jekyll-template.git"
   },
-  "author": "znfang",
+  "author": "xnzone",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/i-znan/i-znan.github.io/issues"
+    "url": "https://github.com/znfang/Jekyll-template/issues"
   },
   "browserslist": [
     "> 1%",
     "last 2 versions"
   ],
-  "homepage": "https://github.com/i-znan/i-znan.github.io#readme",
+  "homepage": "https://github.com/znfang/Jekyll-template#readme",
   "description": ""
 }

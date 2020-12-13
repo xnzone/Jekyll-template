@@ -2,8 +2,8 @@ encoding: utf-8
 port: 5678
 host: 0.0.0.0
 
-title: znfang
-keywords: [znfang, 后端, 算法, 杭州]
+title: xnzone
+keywords: [xnzone, 后端, 算法, 杭州]
 description: '到底要做一个什么样的人？'
 
 exclude: [webpack.config.js, package.json, Gemfile, Gemfile.lock, src, node_modules]
@@ -19,9 +19,9 @@ kramdown:
   smart_quotes:   lsquo,rsquo,ldquo,rdquo
 
 paginate: 10
-repository: znfang/jekyll-template
+repository: xnzone/jekyll-template
 
-nickname: znfang
+nickname: xnzone
 home: http://jekyll-template.xnzone.ml # 微信分享主页信息
 IMG_PATH: /img
 tongji: baidu_tongji_id

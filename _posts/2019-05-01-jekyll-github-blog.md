@@ -24,7 +24,7 @@ tags:  "blog"
 ## 注册github账号
 这一步应该不用多说吧。相信来看这个博客的人，应该都有了自己的同性交友网站的账号了。
 ## fork模板
-这一步你可以fork[我的模板](https://github.com/znfang/znfang.github.io)，当然你也可以fork上述我参考的jekyll官方模板,或者其他任何人的模板
+这一步你可以fork[我的模板](https://github.com/znfang/Jekyll-template)，当然你也可以fork上述我参考的jekyll官方模板,或者其他任何人的模板
 
 可以参照下列步骤进行
 
